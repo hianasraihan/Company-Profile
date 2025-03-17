@@ -1,4 +1,3 @@
-import Navbar from "../component/navbar";
 
 export default function TermsOfServices() {
   return (
@@ -6,9 +5,9 @@ export default function TermsOfServices() {
       <div className="text-left max-w-full px-8 mx-6">
         <h1 className="text-3xl font-bold mb-6">Terms of Services</h1>
         <p className="text-lg mb-4">
-          Welcome to TOMORO COFFEE's Application ("Application"), where
-          Application users ("Users") can order products under TOMORO COFFEE in
-          Users purchasing products through the Application ("Services"). TOMORO
+          Welcome to TOMORO COFFEEs Application (Application), where
+          Application users (Users) can order products under TOMORO COFFEE in
+          Users purchasing products through the Application (Services). TOMORO
           COFFEE wants to provide Users with the best Service through the
           Application, and hopes that by using the Application, Users can
           experience a simple way to get the product and enjoy the product
@@ -16,7 +15,7 @@ export default function TermsOfServices() {
         </p>
         <h2 className="text-2xl font-semibold mt-8 mb-4">About the App</h2>
         <p className="text-lg mb-4">
-          PT Kopi Bintang Indonesia (“TOMORO COFFEE”, or “We”) provides the
+          PT Kopi Bintang Indonesia (TOMORO COFFEE, or We) provides the
           Application with reference to the Terms and Conditions set out below.
           Before using the Services in the Application, the User is advised to
           read carefully and agree to these Terms and Conditions and the Privacy
@@ -31,7 +30,7 @@ export default function TermsOfServices() {
           integral part of the TOMORO COFFEE Application Terms of Use
           (hereinafter, the TOMORO COFFEE Application Terms of Use, additional
           TOMORO COFFEE Application Terms of Use, and amendments thereto are
-          collectively referred to as the “Terms and Conditions”). Even though
+          collectively referred to as the Terms and Conditions). Even though
           they are an integral part, additional Terms and Conditions will apply
           in the event that there is a difference with the Terms and Conditions.
         </p>
@@ -46,8 +45,8 @@ export default function TermsOfServices() {
           modifications. Therefore, TOMORO COFFEE advises Users to review this
           Terms and Conditions page from time to time to see any changes if any.
           Such changes are effective immediately upon posting on this Terms and
-          Conditions page and User's continued use of the Application after such
-          changes are posted constitutes User's acceptance of the revised Terms
+          Conditions page and Users continued use of the Application after such
+          changes are posted constitutes Users acceptance of the revised Terms
           and Conditions.
         </p>
         <p className="text-lg mb-4">

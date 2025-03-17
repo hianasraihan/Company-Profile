@@ -1,4 +1,3 @@
-import Navbar from "../component/navbar";
 
 export default function AboutPage() {
   return (

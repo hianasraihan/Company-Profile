@@ -1,4 +1,4 @@
-import Navbar from "../component/navbar";
+
 
 export default function PrivacyPolicy() {
   return (
@@ -111,7 +111,7 @@ export default function PrivacyPolicy() {
           or practices of any third-party sites or services.
         </p>
 
-        <h2 className="text-2xl font-semibold mt-8 mb-4">Children's Privacy</h2>
+        <h2 className="text-2xl font-semibold mt-8 mb-4">Childrens Privacy</h2>
         <p className="text-lg mb-4">
           These Services do not address anyone under the age of 13. We do not
           knowingly collect personally identifiable information from children
